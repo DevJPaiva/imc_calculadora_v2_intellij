@@ -1,3 +1,4 @@
+// função que verifica em qual estado o usuario se encontra;
 void verificaImc(double imc) {
 
   if (imc < 16){
